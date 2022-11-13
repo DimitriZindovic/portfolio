@@ -1,0 +1,9 @@
+.footer-perso {
+  bottom: 0;
+  position: relative;
+}
+
+.footer-perso-2 {
+  justify-content: center;
+  bottom: absolute;
+}
